@@ -18,7 +18,7 @@ $ ./expense_roaster.sh --status
 
 ## 🖥️ Live Demo
 
-**➡️ [your-app-name.streamlit.app](https://your-app-name.streamlit.app)** *(replace after deploying)*
+**➡️ (https://expense-roaster.onrender.com)** *(replace after deploying)*
 
 ---
 
