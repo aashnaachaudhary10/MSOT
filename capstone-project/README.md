@@ -19,6 +19,7 @@ $ ./expense_roaster.sh --status
 ## 🖥️ Live Demo
 
 **➡️ [expense-roaster.onrender.com](https://expense-roaster.onrender.com)** 
+*'Note: this runs on Render's free tier, so the first load after inactivity may take 30-60 seconds to wake up.' *
 
 ---
 
