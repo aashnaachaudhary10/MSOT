@@ -18,7 +18,7 @@ $ ./expense_roaster.sh --status
 
 ## 🖥️ Live Demo
 
-**➡️ (https://expense-roaster.onrender.com)** *(replace after deploying)*
+**➡️ [expense-roaster.onrender.com](https://expense-roaster.onrender.com)** 
 
 ---
 
